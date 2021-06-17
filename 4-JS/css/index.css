@@ -1,0 +1,216 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #609700;
+    font-size: 14px;
+}
+
+a:hover {
+    color: #333;
+    text-decoration: underline;
+}
+
+.bx {
+    width: 968px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+p {
+    font: 400 16px Helvetica;
+    color: #979797;
+    line-height: 2;
+}
+
+h4 {
+    font-size: 14px;
+}
+
+li {
+    color: #999;
+    line-height: 1.8;
+}
+
+.top {
+    background: url(../images/bg/top.jpg) repeat-x;
+    overflow: hidden;
+}
+
+.logo {
+    float: left;
+    margin-top: 14px;
+}
+
+.logo img {
+    width: 44px;
+    height: 44px;
+}
+
+.nav {
+    float: right;
+}
+
+.nav li {
+    float: left;
+    overflow: hidden;
+    list-style: none;
+    margin-left: 10px;
+    margin-top: 22px;
+}
+
+.nav a {
+    float: left;
+    height: 33px;
+    padding-left: 14px;
+    background: url(../images/bg/button.png) no-repeat;
+    text-decoration: none;
+    color: #fff;
+}
+
+.nav span {
+    float: left;
+    height: 33px;
+    padding-right: 14px;
+    background: url(../images/bg/button.png) no-repeat right;
+    font: 14px/33px Helvetica;
+}
+
+.banner {
+    width: 968px;
+    margin: 0 auto;
+}
+
+.banner .left {
+    float: left;
+    text-align: left;
+}
+
+.banner .left h2 {
+    font: 400 26px Helvetica;
+    margin-top: 49px;
+    margin-bottom: 15px;
+}
+
+.banner .left img {
+    cursor: pointer;
+    width: 224px;
+    height: 64px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.banner .left ul {
+    margin-left: 16px;
+}
+
+.banner .left li {
+    color: #999;
+    line-height: 1.5;
+}
+
+.banner .right {
+    float: left;
+    width: 490px;
+    margin-top: 38px;
+    margin-left: 68px;
+    text-align: center;
+    position: relative;
+}
+
+.banner .right h3 {
+    font: 400 14px Helvetica;
+    margin-top: 10px;
+}
+
+.d_txt {
+    width: 180px;
+    margin: 0 auto;
+    line-height: 1.5;
+}
+
+.main {
+    border-bottom: 1px solid #D4DADF;
+}
+
+.main .left {
+    float: left;
+    width: 636px;
+}
+
+.main .left div {
+    float: left;
+    text-align: left;
+    margin: 45px 12px 0 0;
+    width: 200px;
+}
+
+.main .left p {
+    font-size: 14px;
+}
+
+.main .right {
+    float: right;
+    text-align: left;
+    margin-top: 45px;
+}
+
+.main .right ul {
+    margin-left: 13px;
+    margin-top: 5px;
+}
+
+.main .right li {
+    font-size: 12px;
+    line-height: 29px;
+}
+
+.main .right i {
+    font-size: 12px;
+    font-style: normal;
+    color: red;
+    margin: 0 7px;
+}
+
+.main .main_b {
+    float: left;
+    margin: 10px 0 30px;
+}
+
+.main .main_b img {
+    vertical-align: middle;
+}
+
+.main .main_b .call_me {
+    font: 700 14px Helvetica;
+    color: #000;
+}
+
+#image {
+	margin: 0 auto; 
+	position: relative;
+}
+#image #pre {
+	width: 50px; 
+	height: 50px;
+	position: absolute;
+	left: 0; 
+    top: 140px;
+}
+#image #next {
+	width: 50px; 
+	height: 50px;
+	position: absolute;
+	right: 0;
+    top: 140px;
+}
+#image #img{
+	width: 280px;
+	height: 280px;
+	border:1px solid #fff; 
+	margin: 0 auto;
+	display: block;
+}

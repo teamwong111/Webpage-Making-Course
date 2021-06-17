@@ -1,29 +1,27 @@
 # Webpage-Making-Course
-[中文文档](https://github.com/teamwong111/Webpage-Making-Course/blob/main/README-cn.md)
-
-It is my term project repo of Webpage Making Course(2021 spring) in Tongji University
+这是我在同济大学网页制作教程课程（2021春）的作业集
 
 ---
 
-## Contents
-- [Introduction](#Introduction)
-- [Structure](#Structure)
-- [Running](#Running)
-- [Defenders](#Defenders)
+## 目录
+- [简介](#简介)
+- [项目目录结构](#项目目录结构)
+- [运行](#运行)
+- [维护者](#维护者)
 - [License](#License)
 
 ---
 
-## Introduction
-This repo contain four term projects of Tongji University's webpage making course in 2021 spring.
-1. HTML
-2. CSS
-3. JS
-4. PHP
+## 简介
+本仓库为包含2021年同济大学网页制作教程课程的四个作业：
+1. HTML作业
+2. CSS作业
+3. JS作业
+4. PHP作业
 
 ---
 
-## Structure
+## 项目目录结构
 ```bash
 .
 ├─1-HTML
@@ -80,14 +78,15 @@ This repo contain four term projects of Tongji University's webpage making cours
 ```
 ---
 
-## Running
-- HTML、CSS、JS exercises just click it to run
-- PHP exercises please install and run MySQL、Apache，and open 127.0.0.1 in browser
+## 运行
+- HTML、CSS、JS直接点击运行即可
+- PHP请自行安装、运行MySQL、Apache，然后在浏览器打开127.0.0.1即可
 
-## Defenders
-The repo is currently owned by https://github.com/teamwong111 maintain
+## 维护者
 
-If I have infringement or you have any questions, please contact me by email wungjz1@gmail.com
+该仓库目前的维护者为https://github.com/teamwong111
+
+如有侵权或其他问题请通过邮件联系wungjz1@gmail.com
 
 ---
 
